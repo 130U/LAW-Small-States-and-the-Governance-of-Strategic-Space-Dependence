@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Small States and the Governance of Strategic Space Dependence"
+version: "V_202611"
+date-released: 2026-11-19
+abstract: "When a small state relies on foreign space infrastructure, what exactly has it given up, and what does it owe its own public before it does so? The Article, its PDF, an argument map, the proposal and the sources."
+authors:
+  - family-names: Ouyang
+    given-names: "Letao (Theodore)"
+repository-code: "https://github.com/130U/LAW-Small-States-and-the-Governance-of-Strategic-Space-Dependence"
+url: "https://www.theodoreoy.com/experience/small-states-and-the-governance-of-strategic-space-dependence/"
+keywords:
+  - "space law"
+  - "Outer Space Treaty"
+  - "space policy"
+  - "small states"
+  - "international law"
+  - "procurement"
+preferred-citation:
+  type: unpublished
+  title: "Small States and the Governance of Strategic Space Dependence"
+  authors:
+    - family-names: Ouyang
+      given-names: "Letao (Theodore)"
+  year: 2024
+  url: "https://www.theodoreoy.com/experience/small-states-and-the-governance-of-strategic-space-dependence/"
+  institution:
+    name: "Duke Law School"
+  notes: "Manuscript, Duke Law School, December 2024; revised November 2026."
